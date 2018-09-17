@@ -29,7 +29,7 @@
       <img src="images/IMG_3481.JPG" alt="me" height="240" width="160">
     </aside>
     <footer>
-      <p>Ryan Lin CSC 174 Webpage Design and Development</p>
+      <p>CSC 174 Webpage Design and Development</p>
     </footer>
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="js/menu.js"></script>

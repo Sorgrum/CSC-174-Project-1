@@ -9,14 +9,7 @@
 <body>
   <header>
     Priya, Marcelo, and Ryan's Flash Website
-        <nav class="menu">
-            <ul>
-                <li><a href="index.php">Home</a></li>
-                <li><a href="priya.php">Priya</a></li>
-                <li><a href="marcelo.php">Marcelo</a></li>
-                <li><a href="ryan.php">Ryan</a></li>
-            </ul>
-        </nav>
+     <?php include("menu.php"); ?>
   </header>
    <!-- <?php include("menu.php"); ?> -->
   <article>

@@ -8,7 +8,7 @@
 </head>
 
 <body>
-	
+	<header>  <?php include("menu.php"); ?></header>
 	<div class="intro">
 		<img src="images/priya.jpg" alt="Pooja Priya">
 		<h1>Pooja Priya</h1>
@@ -19,14 +19,6 @@
 		</ul>
 	</div>
 	
-	<div class="menu">
-		<ul>
-			<li class="is-current"><a href="index.html">Home</a></li>
-			<li><a href="about.html">About</a></li>
-			<li><a href="summer.html">Summer</a></li>
-			<li><a href="hobbies.html">Hobbies</a></li>
-		</ul>
-	</div>
 
 	<article>
 		<div>

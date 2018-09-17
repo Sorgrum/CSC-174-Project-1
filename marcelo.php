@@ -8,18 +8,13 @@
   <link rel="stylesheet" href="assets/css/main.css">
 </head>
 <body>
+<header>  <?php include("menu.php"); ?></header>
   <div class="hero">
     <nav>
       <div class="header">
         <p>Steve Jobs</p>
       </div>
 
-      <div class="navigation">
-        <a href="index.html" class="active">Home</a>
-        <a href="about.html">About</a>
-        <a href="innovations.html">Innovations</a>
-        <a href="media.html">Media</a>
-      </div>
     </nav>
     <div class="hero-text stroke">
       <h1>Steve Jobs</h1>

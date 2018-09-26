@@ -21,10 +21,6 @@
         <p><a href="http://csc174.org/assignment01/ppriya/">Pooja Priya</a></p>
         <p><a href="http://csc174.org/assignment01/rlin11/">Ryan Lin</a></p>
     </article>
-    <aside>
-    </aside>
-    <footer>
-    </footer>
     <script src="http://code.jquery.com/jquery.js"></script>
     <script src="js/menu.js"></script>
 </body>

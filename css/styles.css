@@ -1,0 +1,36 @@
+/*
+ * Navbar
+ */
+nav {
+  background-color: #333;
+}
+
+nav > ul {
+  list-style: none;
+  margin: 0px auto;
+  padding: 0;
+  overflow: hidden;
+  max-width: 980px;
+}
+
+nav > ul > li {
+  float: left;
+  border-right: 1px solid #666;
+}
+
+nav > ul > li > a {
+  display: block;
+  padding: 14px 16px;
+  color: #fff;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+
+nav > ul > li:first-child {
+  border-left: 1px solid #666;
+}
+
+nav > ul > li > a.active {
+  background-color: #3c7986;
+}
+

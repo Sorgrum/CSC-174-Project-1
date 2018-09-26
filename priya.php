@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <title>Pooja Priya</title>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" href="css/normalize.css">
 </head>
 
 <body>

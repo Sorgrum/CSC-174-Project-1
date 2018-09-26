@@ -3,7 +3,7 @@
 
 <head>
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/navigation.css">
+    <link rel="stylesheet" href="css/normalize.css">
     <meta charset="utf-8">
     <title>Ryan Lin</title>
 </head>

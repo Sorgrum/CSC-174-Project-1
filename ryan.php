@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <?php include("menu.php"); ?>
+    <?php include("includes/menu.php"); ?>
     <div>
         <img src="images/ryanlin.jpg" alt="Ryan Lin">
         <h1>Ryan Lin</h1>
@@ -30,8 +30,7 @@
     <footer>
         <p>CSC 174 Webpage Design and Development</p>
     </footer>
-    <script src="http://code.jquery.com/jquery.js"></script>
-    <script src="js/menu.js"></script>
+    <?php include("includes/scripts.php"); ?>
 </body>
 
 </html>

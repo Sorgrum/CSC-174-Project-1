@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <?php include("menu.php"); ?>
+    <?php include("includes/menu.php"); ?>
     <div class="container">
         <div>
             <a href="jonathan.php"><img src="images/jonathan.jpg" alt="Jonathan Roman"></a>
@@ -23,8 +23,7 @@
             <p><a href="http://csc174.org/assignment01/rlin11/">Ryan Lin</a></p>
         </div>
     </div>
-    <script src="http://code.jquery.com/jquery.js"></script>
-    <script src="js/menu.js"></script>
+    <?php include("includes/scripts.php"); ?>
 </body>
 
 </html>

@@ -9,9 +9,7 @@
 </head>
 
 <body>
-    <header>
-        <?php include("menu.php"); ?>
-    </header>
+    <?php include("menu.php"); ?>
     <div class="intro">
         <img src="images/priya.jpg" alt="Pooja Priya">
         <h1>Pooja Priya</h1>

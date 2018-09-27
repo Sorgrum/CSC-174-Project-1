@@ -21,4 +21,4 @@ The reason there is a small biographical blurb is to introduce the student's bac
 
 ## Choreography
 
-The students are organized alphabetically.
+The students are organized alphabetically. The biography pages have the student's name as the largest element in order to draw attention to the name of the student. Directly below it has relevant information about the user like their major, class, and school. Below it contains text describing the students background and educational interests.

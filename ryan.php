@@ -2,8 +2,8 @@
 <html>
 
 <head>
-    <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/styles.css">
     <meta charset="utf-8">
     <title>Ryan Lin</title>
 </head>

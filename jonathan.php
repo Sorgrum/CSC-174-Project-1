@@ -4,8 +4,8 @@
 <head>
     <meta charset="utf-8">
     <title>Jonathan Roman</title>
-    <link rel="stylesheet" href="css/styles.css">
     <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>

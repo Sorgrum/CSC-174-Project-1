@@ -42,4 +42,83 @@ nav > ul > li > a.active {
   margin: 0 auto;
   background-color: #eaeaea;
   overflow: auto;
+  min-height: calc(100vh - 47px);
+}
+
+h1 {
+  margin-left: 30px;
+  margin-top: 1em;
+  margin-bottom: 0px;
+  font-family: sans-serif;
+}
+
+/* Wells */
+.wells {
+  display: flex;
+  flex: 1;
+}
+
+.well {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin-right: 20px;
+  margin-top: 2em;
+  background-color: #fff;
+  border-radius: 4px;
+  transition: all 0.5s;
+  align-self: flex-start;
+}
+
+.well:hover {
+  flex: 1.2;
+  margin-top: 1em;
+}
+
+.well:hover img {
+  height: 250px;
+}
+
+.well:first-child {
+  margin-left: 20px;
+}
+
+.well img {
+  width: 100%;
+  border-radius: 4px 4px 0px 0px;
+  height: 200px;
+  object-fit: cover;
+  transition: all 0.5s;
+}
+
+.well-content {
+  display: flex;
+  flex: 1;
+  font-size: 1.3em;
+  font-weight: bold;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 0.8em 0px;
+}
+
+.well-content .button {
+  background-color: #4c9aaf;
+  border: none;
+  color: #fff;
+  display: inline-block;
+  padding: 16px 0px;
+  margin-top: 8px;
+  width: 90%;
+  font-size: 16px;
+  font-family: sans-serif;
+  text-decoration: none;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.original-link {
+  font-size: 0.6em;
+  margin-top: 12px;
+  font-family: sans-serif;
 }

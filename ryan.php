@@ -2,10 +2,10 @@
 <html lang="en">
 
 <head>
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/styles.css">
     <meta charset="utf-8">
     <title>Ryan Lin</title>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
@@ -16,9 +16,9 @@
             <div class="person-text">
                 <h1>Ryan Lin</h1>
                 <ul>
-             <li>Mechanical Engineering</li>
-            <li>Class of 2020</li>
-            <li>University of Rochester</li>
+                    <li>Mechanical Engineering</li>
+                    <li>Class of 2020</li>
+                    <li>University of Rochester</li>
                 </ul>
             </div>
         </div>
